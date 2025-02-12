@@ -1,5 +1,6 @@
 "# IEEE-task" 
 1- git init
+
 Initialized empty Git repository 
 
 2- git add README.md
@@ -9,6 +10,6 @@ Initialized empty Git repository
 
 5- git remote add origin git@github.com:Mohamed-HamedM/IEEE-task.git
 
-6- Users\Moham\OneDrive\Desktop\My Repo>git push -u origin main
+6- git push -u origin main
 
 
